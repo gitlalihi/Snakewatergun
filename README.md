@@ -1,2 +1,2 @@
 #### Snakewatergun
-A mini program to understand looping in Python
+A mini program to understand conditional statements  in Python
